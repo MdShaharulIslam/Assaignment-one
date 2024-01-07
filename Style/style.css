@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=Open+Sans:ital,wght@0,400;0,700;0,800;1,400;1,700;1,800&family=Rubik+Doodle+Triangles&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&family=Merriweather:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=Open+Sans:ital,wght@0,400;0,700;0,800;1,400;1,700;1,800&family=Rubik+Doodle+Triangles&display=swap");
+body {
+  width: 1400px;
+  height: 7335px;
+  padding: 50px 140px 50px 140px;
+}
+.banner {
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  display: flex;
+}
+
+.bg-img {
+  background-image: url("../Images/Banner\ Image.png");
+  background-repeat: no-repeat;
+  border-radius: 16px;
+  width: 1320px;
+  height: 600px;
+}
+.gradiant-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1320px;
+  height: 600px;
+  background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%);
+}
+.banner-contant {
+  position: relative;
+  align-items: center;
+  color: #fff;
+}
+.header-title1 {
+  color: #fff;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 32px;
+  font-weight: 400;
+  padding-top: 177px;
+}
+.header-title2 {
+  width: 632px;
+  color: #fff;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 95px;
+  padding: 5px 344px 177px 344px;
+}
+.banner {
+  display: block;
+  padding-top: 100px;
+  align-items: center;
+  text-align: center;
+}
+.parcentage {
+  color: #f00;
+  font-family: Inter;
+  font-size: 88px;
+  font-weight: 700;
+}
+.banner-contant {
+  color: #f00;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+}
+.banner-catagory {
+  color: #070211;
+  font-family: Inter;
+  font-size: 48px;
+  font-weight: 700;
+}
+.welcome {
+  padding-top: 100px;
+}
+.welcome-bg {
+  background-image: url("../Images/Vectorrr.png");
+  width: 1320px;
+  height: 600px;
+  position: absolute;
+}
+.welcome-container {
+  display: flex;
+  position: relative;
+  gap: 5px;
+  padding: 50px;
+}
+.welcome-1 {
+  width: 642px;
+}
+.wel-title {
+  color: #fff;
+  font-family: Merriweather;
+  font-size: 64px;
+  font-weight: 900;
+  line-height: 88px;
+  letter-spacing: 7.04px;
+}
