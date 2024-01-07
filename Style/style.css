@@ -102,3 +102,180 @@ body {
   line-height: 88px;
   letter-spacing: 7.04px;
 }
+.wel-con {
+  width: 697px;
+  color: rgba(255, 255, 255, 0.8);
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+}
+.join-button {
+  border: 0;
+  color: #fff;
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.year-img img {
+  padding-left: 200px;
+}
+.address {
+  padding-top: 100px;
+  align-items: center;
+  text-align: center;
+}
+
+.add-p {
+  color: #070211;
+  font-family: Inter;
+  font-size: 32px;
+
+  font-weight: 600;
+  line-height: 56px;
+}
+.add-s {
+  color: #f00;
+  text-align: center;
+  font-family: Inter;
+  font-size: 32px;
+
+  font-weight: 600;
+  line-height: 56px;
+}
+.add-button {
+  border: 0;
+  padding: 16px 32px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 8px;
+  background: #f00;
+  color: #fff;
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+}
+.offer {
+  padding-top: 300px;
+  align-items: center;
+  text-align: center;
+}
+.offer-container {
+  display: flex;
+  gap: 118px;
+}
+.offer-1 {
+  width: 393px;
+  text-align: left;
+}
+.offer-1-head {
+  color: #f00;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+}
+.offer-1-title {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-weight: 900;
+}
+.offer-1-con {
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+}
+.offer-2-img {
+  padding: 50px;
+  width: 364.844px;
+  height: 364.844px;
+}
+.offer-2 {
+  border-radius: 463px;
+  border: 15px solid #f00;
+  width: 463px;
+  height: 463px;
+}
+.offer-3-title {
+  color: #f00;
+  font-family: Inter;
+  font-size: 48px;
+  font-weight: 700;
+}
+.holiday {
+  padding-top: 100px;
+  margin: auto;
+  text-align: center;
+}
+.holyday-container {
+  line-height: 10px;
+}
+.holiday-p {
+  color: #070211;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+}
+.holiday-title {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 72px;
+  font-weight: 900;
+}
+.holy-s {
+  color: #f00;
+}
+
+.holy-con {
+  width: 1068px;
+  margin: auto;
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 32px;
+}
+.discount {
+  padding-top: 100px;
+}
+
+.dis-container {
+  display: flex;
+  gap: 50px;
+  /* text-align: right; */
+}
+.dis-box {
+  width: 100%;
+  padding-top: 15px;
+ 
+}
+.dis2 {
+  position: relative;
+  right: -44px;
+}
+.dis-bg {
+  display: block;
+}
+
+.dis-lay {
+  position: absolute;
+  top: 80px;
+  left: -150px;
+  height: auto;
+  display: block;
+}
+.dig-botom {
+  width: 1320px;
+  height: 229px;
+  border-radius: 16px 0px 16px 16px;
+  background: #f00;
+  margin-top: -250px;
+}
