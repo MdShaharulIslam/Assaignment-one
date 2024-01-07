@@ -3,7 +3,7 @@
 body {
   width: 1400px;
   height: 7335px;
-  padding: 50px 140px 50px 140px;
+  padding: 50px 140px 50px 50px;
 }
 .banner {
   position: relative;
@@ -255,7 +255,6 @@ body {
 .dis-box {
   width: 100%;
   padding-top: 15px;
- 
 }
 .dis2 {
   position: relative;
@@ -279,3 +278,151 @@ body {
   background: #f00;
   margin-top: -250px;
 }
+.gallaery-top {
+  padding-top: 100px;
+}
+.gallary-contant {
+  line-height: 5px;
+}
+.gallary-head {
+  color: #f00;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+}
+.g-title {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-weight: 900;
+}
+.g-con {
+  width: 896px;
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+
+  font-weight: 400;
+  line-height: 32px;
+}
+.gallary-1 img {
+  padding: 10px;
+}
+
+.subscribe {
+  padding-top: 200px;
+  align-items: center;
+  text-align: center;
+}
+.sub-container {
+  border-radius: 16px;
+  background: rgba(255, 0, 0, 0.05);
+  padding: 10px;
+  width: 1320px;
+  height: 616px;
+}
+.sub-img {
+  width: 150px;
+  height: 150px;
+}
+.sub-title {
+  color: #070211;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-weight: 900;
+}
+.sub-p {
+  width: 896px;
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  margin: auto;
+}
+.search-container {
+  padding: 10px;
+}
+.textarea {
+  border: 0px;
+  width: 648px;
+  height: 72px;
+  border-radius: 50px 0px 0px 50px;
+  background: #fff;
+  color: rgba(7, 2, 17, 0.3);
+  text-align: left;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+}
+.search-buttton {
+  width: 210px;
+  height: 72px;
+  border-radius: 0px 50px 50px 0px;
+  background: #f00;
+  border: 0px;
+  color: #fff;
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 600;
+}
+.footer {
+  margin-top: 100px;
+  margin-left: -140px;
+  width: 1600px;
+  height: 609px;
+  background: #070211;
+}
+.footer-container {
+  display: flex;
+  padding: 80px 80px 0px 140px;
+  padding-right: 200px;
+  justify-content: space-between;
+}
+.florida {
+  color: #fff;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 40px;
+  width: 375px;
+}
+.contact {
+  display: inline-block;
+  color: #fff;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 40px;
+  vertical-align: middle;
+}
+.icon {
+  padding: 50px;
+  align-items: center;
+  text-align: center;
+}
+.icon-container {
+  padding: 20px;
+}
+
+.icon-container i {
+  padding: 40px;
+}
+.footer-last-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 80px 80px 0px 140px;
+}
+.reserv {
+  color: #fff;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.footer-right{color: #fff;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;}
